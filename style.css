@@ -1,0 +1,17 @@
+body{
+    margin: 16px auto;
+    width: 260px;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: beige;
+    padding: 16px 24px 8px;
+    font-family: arial, Verdana, "Times New Roman";
+}
+
+ul{
+    background-color: white;
+    padding: 16px 0px 16px 24px;
+    margin-bottom: 8px;
+}
